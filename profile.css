@@ -1,0 +1,33 @@
+.profile {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+.body{
+	padding-right: 250px;
+	padding-left: 250px;
+	padding-bottom: 250px;
+}
+body {
+    font-family: 'Abel';font-size: 22px;
+}
+.cmsc{
+	float: left;
+	width: 45%;
+}
+.myself{
+	float: right;
+	width: 45%;
+}
+
+.food-pic{
+	float: left;
+	width: 45%;
+}
+
+.exp{
+	float: right;
+	width: 45%;
+}
