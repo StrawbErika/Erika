@@ -1,0 +1,8 @@
+.rectangle {
+	width: 200px;
+    height: 100px;
+    border: solid transparent;
+    border-width: 5px;
+    border-color: rgba(29, 255, 199, 0.883);
+}
+		
